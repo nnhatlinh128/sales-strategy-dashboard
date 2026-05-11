@@ -1,4 +1,4 @@
-# [POWER BI] Global Sales Strategy Dashboard
+# [POWER BI] Sales Strategy Dashboard
 
 Strategic Business Intelligence dashboard for global market expansion, product profitability, and risk analysis using Power BI.
 
